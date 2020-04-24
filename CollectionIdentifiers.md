@@ -10,7 +10,7 @@ the list is maintained here at GitHub and is extensible in an open manner withou
 (http://proteomecentral.proteomexchange.org/dataset/PXD017269). The PXDnnnnnn SHOULD be used for all proteomics
 mass spectrometry datasets that have been registered at ProteomeXchange.
 
-2. MSVnnnnnnnnn - A collection identifier for a datasets contained at the MassIVE repsository, such as MSV000078556. This type of 
+2. MSVnnnnnnnnn - A collection identifier for a datasets contained at the MassIVE repository, such as MSV000078556. This type of 
 identifier SHOULD only be used when there is not a corresponding PXDnnnnnn identifier for the dataset, as is often the case
 for metabolomics datasets.
 
